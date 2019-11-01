@@ -1,0 +1,12 @@
+name: Test
+title: Test
+username:
+account: mengxitan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1364251
+bundleId: 2525583
+url: https://mengxitan.shinyapps.io/Test/
+when: 1571762563.90904
+asMultiple: FALSE
+asStatic: FALSE
